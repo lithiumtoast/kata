@@ -2,7 +2,8 @@
 
 A collection of code katas in various languages. Practice exercises with specific programming tools on the journey to mastery.
 
-<img src="https://pbs.twimg.com/media/DRgAB30VQAAoY2i?format=jpg&name=900x900" width="300"><sub><sub>[Cartoon courtesy of Sarah Anderson](https://tapas.io/episode/923459).</sub></sub>
+<a href="https://tapas.io/episode/923459"><img src="https://pbs.twimg.com/media/DRgAB30VQAAoY2i?format=jpg&name=900x900" width="300"></a>  
+<sub>[Cartoon courtesy of Sarah Anderson](https://tapas.io/episode/923459).</sub>
 
 ## What's a kata?
 
